@@ -1,5 +1,5 @@
 # Hi <img src='https://github.com/aditperm/aditperm/blob/master/assets/Hi.gif' width='29' height='29'/>, I'm Aditya Permana ![](https://visitor-badge.glitch.me/badge?page_id=aditperm.aditperm)
-🌱 I’m currently learning ** Frontend Web Development**<br/>
+🌱 I’m currently learning **Frontend Web Development**<br/>
 📝 How to reach me on [Twitter](https://www.twitter.com/aditperm)<br/>
 
 <p align=center>
